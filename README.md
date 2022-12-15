@@ -5,6 +5,7 @@ as well as computer science teaching and learning.
 - I'm pending to publish some content.
   - I have some content in [mòduls cicles FP](https://www.fpcesc.epizy.com/?i=1) 
   - I also work on my freetimes in [cescacs](https://cescacs.orgfree.com/)
+  - [***cescacs*** is also in github](https://github.com/cescacs)
 
 <!--
 - 🌱 I’m currently learning ...
