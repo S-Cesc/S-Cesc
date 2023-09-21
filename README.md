@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-Cesc, and I have been working in software architecture for over thirty years.
+- 👋 Hi, I’m @S-Cesc, and I have been working in software architecture for over fourty years.
 - 👀 I’m interested in programming languages, data structures, databases and, touching the AI world, knowledge representation,
 as well as computer science teaching and learning.
 
