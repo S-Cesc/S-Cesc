@@ -4,10 +4,10 @@ as well as computer science teaching and learning.
 
 - 🌱 I’m currently learning Rust, and my interest focus on WebAssembly.
 - 📫 How to reach me:
-  - I have some content in [mòduls cicles FP](https://www.fpcesc.epizy.com/?i=1) 
-  - I also work on my freetimes in [cescacs](https://cescacs.orgfree.com/)
+  - I spend some of my free time working on [cescacs](https://cescacs.orgfree.com/) project.
   - [***cescacs*** is also in github](https://github.com/cescacs)
 
+<!--  - I have some content about [cicles FP](https://www.fpcesc.epizy.com/?i=1) -->
 <!--
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
