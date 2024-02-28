@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @S-Cesc, and I have been working in software architecture since I began to program my Commodore-64 computer using hexadecimal binary programming, in 1982, as I was a child and I haven't got an assembler. Next, I wrote a BASIC interpreter for PDP-11 in 1984, in the 1st course of computer science, maybe to contradict my programming teacher, who said it was too complicated for a first-year student..
-- 👀 I’m interested in programming languages, data structures, databases and, touching the AI world, knowledge representation, common sense,
+- 👋 Hi, I’m @S-Cesc, and I have been working in software architecture since I began to program my Commodore-64 computer using hexadecimal binary programming, in 1982, as I was a child and I haven't got an assembler. Next, in the 1994 1st course of FIB computer science, I wrote a BASIC interpreter for PDP-11, maybe to contradict my programming teacher, who said it was too complicated for a first-year student..
+- I’m interested in programming languages, data structures, databases and, touching the AI world, knowledge representation, common sense,
 as well as computer science teaching and learning.
 
 - 🌱 I’m currently learning Rust, and my interest focus on WebAssembly.
