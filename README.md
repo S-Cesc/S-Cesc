@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @S-Cesc, and I have been working in software architecture since I began to program my Commodore-64 computer using hexadecimal binary programming, in 1982.
-- 👀 I’m interested in programming languages, data structures, databases and, touching the AI world, knowledge representation,
+- 👋 Hi, I’m @S-Cesc, and I have been working in software architecture since I began to program my Commodore-64 computer using hexadecimal binary programming, in 1982, as I was a child and I haven't got an assembler. Next, I wrote a BASIC interpreter for PDP-11 in 1984, in the 1st course of computer science, maybe to contradict my programming teacher, who said it was too complicated for a first-year student..
+- 👀 I’m interested in programming languages, data structures, databases and, touching the AI world, knowledge representation, common sense,
 as well as computer science teaching and learning.
 
-- I'm pending to publish some content.
+- 🌱 I’m currently learning Rust, and my interest focus on WebAssembly.
+- 📫 How to reach me:
   - I have some content in [mòduls cicles FP](https://www.fpcesc.epizy.com/?i=1) 
   - I also work on my freetimes in [cescacs](https://cescacs.orgfree.com/)
   - [***cescacs*** is also in github](https://github.com/cescacs)
